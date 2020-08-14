@@ -1,0 +1,10 @@
+#
+# Adreno OpenGL and Vulkan prop file
+#
+ro.adreno.series=500
+ro.adreno.type=OpenGL and Vulkan
+ro.adreno.driver.version=4.1
+#
+ro.adreno.opengl=V@474.0
+ro.adreno.vulkan=1.1.128 (fix)
+#

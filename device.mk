@@ -74,6 +74,7 @@ PRODUCT_PACKAGES += \
 
 # Properties
 -include device/xiaomi/tissot/prop.mk
+TARGET_SYSTEM_PROP := device/xiaomi/tissot/adreno.prop
 
 # Ramdisk
 PRODUCT_PACKAGES += \
