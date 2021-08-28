@@ -43,4 +43,3 @@ BUILD_FINGERPRINT := "xiaomi/tissot/tissot_sprout:8.0.0/OPR1.170623.026/8.1.10:u
 
 # RR Stuffs
 TARGET_FACE_UNLOCK_SUPPORTED := true
-BUILD_RR_WALLPAPERS := true
